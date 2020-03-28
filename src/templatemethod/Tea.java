@@ -1,9 +1,9 @@
 package templatemethod;
 
 public class Tea extends CaffeinatedBeverage {
-//    public void boilWater() {
-//        System.out.println("Boiling water");
-//    }
+    public void boilWater() {
+        System.out.println("Boiling water");
+    }
 
 //    public void steepTea() {
 //        System.out.println("Steeping tea");
